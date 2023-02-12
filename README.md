@@ -3,11 +3,11 @@ In this assingment I have used some powerful Excel techniques used to understand
 
 The learning objectives of this session are:
 
-1:- Use csv and delimited files to read data
-2:- To understand common tricks in Data Analysis (e.g.: Bucketing & Segmenting)
-3:- Use shortcuts while working in MS Excel
-4:- Use formulae and Cell Referencing in MS Excel
-5:- Create visualisations to analyse and present data / important insights 
+* Use csv and delimited files to read data
+* To understand common tricks in Data Analysis (e.g.: Bucketing & Segmenting)
+* Use shortcuts while working in MS Excel
+* Use formulae and Cell Referencing in MS Excel
+* Create visualisations to analyse and present data / important insights 
 
 In this Assingment:
 In this assingment, I have take a bank's telemarketing business problem to understand the types of customers which should be targeted for future marketing campaigns. The dataset contains demographic and personal information of about 45000 people and their response to a telemarketing campaign, i.e. whether they bought a certain product when contacted by the company through telemarketing. 
