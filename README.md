@@ -20,11 +20,11 @@ Our objective is to find the attributes of customers who are likely to buy the p
 
 The following topics will be covered in this session:
 
-Delimited files
-Discovering shortcuts
-Formulae in Excel
-Complex Functions
-Cell Referencing and Text Functions
-Logical Formulae
-Creating & Formatting Charts in Excel
-Choosing the right type of Chart
+* Delimited files
+* Discovering shortcuts
+* Formulae in Excel
+* Complex Functions
+* Cell Referencing and Text Functions
+* Logical Formulae
+* Creating & Formatting Charts in Excel
+* Choosing the right type of Chart
